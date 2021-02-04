@@ -1,6 +1,6 @@
 <?php
 
-namespace mehrbod1gamer;
+namespace mehrbod1gamer\DeathHead\head;
 
 use pocketmine\entity\Human;
 
