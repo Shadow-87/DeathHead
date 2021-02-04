@@ -1,7 +1,7 @@
 
 <?php
 
-namespace mehrbod1gamer;
+namespace mehrbod1gamer\DeathHead\main;
 
 use pocketmine\entity\Entity;
 
